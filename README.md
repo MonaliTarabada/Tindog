@@ -1,2 +1,2 @@
 # Tindog
-Website using HTML, CSS and bootstrap 
+Responsive Webpage created using HTML, CSS and Bootstrap 
